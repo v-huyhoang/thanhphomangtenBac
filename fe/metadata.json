@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page 50 Năm Thành Phố Hồ Chí Minh",
+  "description": "Trang thông tin và tương tác kỷ niệm 50 năm ngày thành lập Thành phố Hồ Chí Minh (02/07/1976 - 02/07/2026) dành cho học sinh, sinh viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
